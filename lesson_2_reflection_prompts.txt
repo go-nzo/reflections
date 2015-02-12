@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 To be able to create the project baseline and .git internal structures
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+A preliminary area to verify changes before upload and commit

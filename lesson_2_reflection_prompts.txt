@@ -3,3 +3,12 @@ To be able to create the project baseline and .git internal structures
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 A preliminary area to verify changes before upload and commit
+
+How can you use the staging area to make sure you have one commit per logical change?
+By using git diff --staged consitently
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Developing parallel projects or tests. Testing new features.
+
+How do the diagrams help you visualize the branch structure?
+They can provide very easy understanding of different dependencies and influences

@@ -12,3 +12,6 @@ Developing parallel projects or tests. Testing new features.
 
 How do the diagrams help you visualize the branch structure?
 They can provide very easy understanding of different dependencies and influences
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Straightforward changes are always incorporated
